@@ -13,6 +13,7 @@ KILL ’EM ALL
 ---
 
 Notes:
-- Based on [this fiddle](https://jsfiddle.net/jjb1yhb4/1/) possibly by [Jeffrey Scudder](https://jas.life/))
+- Based on [this fiddle](https://jsfiddle.net/jjb1yhb4/1/) (possibly by [Jeffrey Scudder](https://jas.life/))
 - Any good results, feel free to put here: https://www.are.na/laurel-schwulst/kill-styles. (Thanks Laurel!)
-- Simplified and updated to Vanilla JS. Helps avoid any jQuery CORS issues.
+- Simplified and updated to regular old vanilla JavaScript.
+- Removes all `<link>` and `<style>` elements along with removing any inline style attributes.
